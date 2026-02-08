@@ -72,3 +72,6 @@ El análisis se apoya en tres tablas principales:
 - Comparación con reacción del precio (no solo volumen)
 - Detección de front-running previo al anuncio
 - Inclusión de métricas de volatilidad post-evento
+
+## 👤Autora
+Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
